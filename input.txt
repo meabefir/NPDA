@@ -1,0 +1,23 @@
+e
+z
+q0
+q2
+4
+q0 q0 6
+a b ab
+a z az
+a a aa
+b a ba
+b z bz
+b b bb
+q0 q1 2
+e a a
+e b b
+q1 q1 2
+b b e
+a a e
+q1 q2 1
+e z z
+2
+abbaaabbaaabba
+aabbaaaaaabbaaaabbaaaaaabbaa
