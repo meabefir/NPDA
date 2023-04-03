@@ -1,0 +1,17 @@
+e
+z
+q0
+q2
+3
+q0 q1 1
+e z sz
+q1 q1 5
+e s asbs
+e s bsas
+e s e
+a a e
+b b e
+q1 q2 1
+e z z
+1
+abab
